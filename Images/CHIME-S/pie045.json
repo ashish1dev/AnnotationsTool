@@ -1,0 +1,49 @@
+{
+	"id": "pie045",
+	"src": "CHIME-pie",
+	"no.": "045",
+	"width": 409,
+	"height": 245,
+	"textelements": [ 
+		{
+			"content": "Academic Press - IDEAL 10%",
+			"boundingbox": {
+				"center_x": 142,
+				"center_y": 47,
+				"width": 79,
+				"height": 39,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "CSA Biological and Medical Sciences 25%",
+			"boundingbox": {
+				"center_x": 105,
+				"center_y": 120,
+				"width": 70,
+				"height": 54,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "AltHealth Watch 19%",
+			"boundingbox": {
+				"center_x": 145,
+				"center_y": 203,
+				"width": 77,
+				"height": 24,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Medline 46%",
+			"boundingbox": {
+				"center_x": 285,
+				"center_y": 118,
+				"width": 36,
+				"height": 24,
+				"orientation": 0
+			}
+		}
+	]
+}

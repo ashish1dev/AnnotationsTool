@@ -1,0 +1,219 @@
+{
+	"id": "line029",
+	"src": "CHIME-line",
+	"no.": "029",
+	"width": 560,
+	"height": 284,
+	"textelements": [ 
+		{
+			"content": "70,000",
+			"boundingbox": {
+				"center_x": 37,
+				"center_y": 13,
+				"width": 30,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60,000",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 38,
+				"width": 31,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "50,000",
+			"boundingbox": {
+				"center_x": 37,
+				"center_y": 63,
+				"width": 30,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40,000",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 87,
+				"width": 31,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30,000",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 112,
+				"width": 31,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20,000",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 137,
+				"width": 31,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10,000",
+			"boundingbox": {
+				"center_x": 37,
+				"center_y": 161,
+				"width": 30,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 48,
+				"center_y": 186,
+				"width": 7,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "visitors",
+			"boundingbox": {
+				"center_x": 12,
+				"center_y": 83,
+				"width": 9,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "15-19 years",
+			"boundingbox": {
+				"center_x": 57,
+				"center_y": 225,
+				"width": 11,
+				"height": 55,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20-24 years",
+			"boundingbox": {
+				"center_x": 101,
+				"center_y": 226,
+				"width": 11,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "25-29 years",
+			"boundingbox": {
+				"center_x": 146,
+				"center_y": 226,
+				"width": 10,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30-34 years",
+			"boundingbox": {
+				"center_x": 190,
+				"center_y": 226,
+				"width": 10,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "35-39 years",
+			"boundingbox": {
+				"center_x": 234,
+				"center_y": 226,
+				"width": 11,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40-44 years",
+			"boundingbox": {
+				"center_x": 279,
+				"center_y": 226,
+				"width": 10,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "45-49 years",
+			"boundingbox": {
+				"center_x": 323,
+				"center_y": 226,
+				"width": 10,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "50-54 years",
+			"boundingbox": {
+				"center_x": 367,
+				"center_y": 226,
+				"width": 10,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "55-59 years",
+			"boundingbox": {
+				"center_x": 411,
+				"center_y": 226,
+				"width": 11,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60-64 years",
+			"boundingbox": {
+				"center_x": 456,
+				"center_y": 226,
+				"width": 10,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "65-69 years",
+			"boundingbox": {
+				"center_x": 500,
+				"center_y": 226,
+				"width": 10,
+				"height": 56,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "70 years or over",
+			"boundingbox": {
+				"center_x": 544,
+				"center_y": 231,
+				"width": 11,
+				"height": 68,
+				"orientation": 0
+			}
+		}
+	]
+}

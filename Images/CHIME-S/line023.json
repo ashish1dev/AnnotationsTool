@@ -1,0 +1,199 @@
+{
+	"id": "line023",
+	"src": "CHIME-line",
+	"no.": "023",
+	"width": 388,
+	"height": 283,
+	"textelements": [ 
+		{
+			"content": "Coolness factor of Nanosounds Websites",
+			"boundingbox": {
+				"center_x": 193,
+				"center_y": 34,
+				"width": 242,
+				"height": 34,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Number of Cheetos Consumed",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 151,
+				"width": 28,
+				"height": 118,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Coolness",
+			"boundingbox": {
+				"center_x": 226,
+				"center_y": 255,
+				"width": 57,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 63,
+				"center_y": 107,
+				"width": 13,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 128,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 150,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 171,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 192,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 213,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 95,
+				"center_y": 232,
+				"width": 4,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 124,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 153,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 182,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 211,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 240,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7",
+			"boundingbox": {
+				"center_x": 269,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8",
+			"boundingbox": {
+				"center_x": 298,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "9",
+			"boundingbox": {
+				"center_x": 327,
+				"center_y": 232,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 356,
+				"center_y": 232,
+				"width": 13,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "pie052",
+	"src": "CHIME-pie",
+	"no.": "052",
+	"width": 758,
+	"height": 578,
+	"textelements": [ 
+		{
+			"content": "Distribution monetaire regionale",
+			"boundingbox": {
+				"center_x": 363,
+				"center_y": 69,
+				"width": 277,
+				"height": 18,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "200 000 $ Centre",
+			"boundingbox": {
+				"center_x": 199,
+				"center_y": 136,
+				"width": 71,
+				"height": 33,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "591 000 $ Ouest",
+			"boundingbox": {
+				"center_x": 104,
+				"center_y": 272,
+				"width": 71,
+				"height": 33,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "413 000 $ Est",
+			"boundingbox": {
+				"center_x": 581,
+				"center_y": 397,
+				"width": 71,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "596 000 $ Region",
+			"boundingbox": {
+				"center_x": 636,
+				"center_y": 218,
+				"width": 71,
+				"height": 34,
+				"orientation": 0
+			}
+		}
+	]
+}

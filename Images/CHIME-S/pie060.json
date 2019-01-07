@@ -1,0 +1,59 @@
+{
+	"id": "pie060",
+	"src": "CHIME-pie",
+	"no.": "060",
+	"width": 413,
+	"height": 544,
+	"textelements": [ 
+		{
+			"content": "Breast Cancer 176,300",
+			"boundingbox": {
+				"center_x": 367,
+				"center_y": 92,
+				"width": 88,
+				"height": 32,
+				"orientation": 0
+			}
+		},
+		{
+			"content": ";HIV/AIDS 43,681",
+			"boundingbox": {
+				"center_x": 281,
+				"center_y": 58,
+				"width": 60,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Spinal Cord Injuries 11,000",
+			"boundingbox": {
+				"center_x": 200,
+				"center_y": 16,
+				"width": 122,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Multiple Sclerosis 10,400",
+			"boundingbox": {
+				"center_x": 95,
+				"center_y": 54,
+				"width": 109,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Traumatic Brain Injuries 1,500,000",
+			"boundingbox": {
+				"center_x": 153,
+				"center_y": 475,
+				"width": 168,
+				"height": 32,
+				"orientation": 0
+			}
+		}
+	]
+}

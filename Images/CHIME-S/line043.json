@@ -1,0 +1,179 @@
+{
+	"id": "line043",
+	"src": "CHIME-line",
+	"no.": "043",
+	"width": 495,
+	"height": 278,
+	"textelements": [ 
+		{
+			"content": "Emails per week",
+			"boundingbox": {
+				"center_x": 8,
+				"center_y": 108,
+				"width": 17,
+				"height": 136,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 15,
+				"width": 10,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 44,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 73,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 102,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 130,
+				"width": 10,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 159,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 188,
+				"width": 8,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 217,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 94,
+				"center_y": 241,
+				"width": 8,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 155,
+				"center_y": 241,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 216,
+				"center_y": 241,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 277,
+				"center_y": 241,
+				"width": 11,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 339,
+				"center_y": 240,
+				"width": 9,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 400,
+				"center_y": 241,
+				"width": 11,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7",
+			"boundingbox": {
+				"center_x": 462,
+				"center_y": 241,
+				"width": 10,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Week of Study",
+			"boundingbox": {
+				"center_x": 277,
+				"center_y": 268,
+				"width": 121,
+				"height": 16,
+				"orientation": 0
+			}
+		}
+	]
+}

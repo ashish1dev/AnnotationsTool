@@ -1,0 +1,69 @@
+{
+	"id": "line016",
+	"src": "CHIME-line",
+	"no.": "016",
+	"width": 492,
+	"height": 303,
+	"textelements": [ 
+		{
+			"content": "$billions",
+			"boundingbox": {
+				"center_x": 60,
+				"center_y": 14,
+				"width": 46,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 25,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 109,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 192,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 276,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Farm production",
+			"boundingbox": {
+				"center_x": 315,
+				"center_y": 120,
+				"width": 89,
+				"height": 12,
+				"orientation": 0
+			}
+		}
+	]
+}

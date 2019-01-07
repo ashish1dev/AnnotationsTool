@@ -1,0 +1,159 @@
+{
+	"id": "line051",
+	"src": "CHIME-line",
+	"no.": "051",
+	"width": 400,
+	"height": 300,
+	"textelements": [ 
+		{
+			"content": "35",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 82,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 106,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "25",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 130,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 153,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "15",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 177,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 200,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 56,
+				"center_y": 224,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 56,
+				"center_y": 248,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 83,
+				"center_y": 256,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 121,
+				"center_y": 256,
+				"width": 4,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 160,
+				"center_y": 256,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 199,
+				"center_y": 256,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 238,
+				"center_y": 256,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 276,
+				"center_y": 256,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 315,
+				"center_y": 256,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		}
+	]
+}

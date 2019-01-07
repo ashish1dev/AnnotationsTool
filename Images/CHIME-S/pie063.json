@@ -1,0 +1,49 @@
+{
+	"id": "pie063",
+	"src": "CHIME-pie",
+	"no.": "063",
+	"width": 656,
+	"height": 492,
+	"textelements": [ 
+		{
+			"content": "Sliced",
+			"boundingbox": {
+				"center_x": 481,
+				"center_y": 177,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Organic",
+			"boundingbox": {
+				"center_x": 277,
+				"center_y": 109,
+				"width": 37,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Un-sliced",
+			"boundingbox": {
+				"center_x": 217,
+				"center_y": 337,
+				"width": 46,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Total Demand for the Three Breads",
+			"boundingbox": {
+				"center_x": 328,
+				"center_y": 39,
+				"width": 397,
+				"height": 26,
+				"orientation": 0
+			}
+		}
+	]
+}

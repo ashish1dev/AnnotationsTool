@@ -1,0 +1,69 @@
+{
+	"id": "pie058",
+	"src": "CHIME-pie",
+	"no.": "058",
+	"width": 731,
+	"height": 506,
+	"textelements": [ 
+		{
+			"content": "Medication Use Process Node",
+			"boundingbox": {
+				"center_x": 363,
+				"center_y": 24,
+				"width": 276,
+				"height": 16,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Documenting 26%",
+			"boundingbox": {
+				"center_x": 62,
+				"center_y": 125,
+				"width": 83,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Prescribing 15%",
+			"boundingbox": {
+				"center_x": 161,
+				"center_y": 442,
+				"width": 76,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Monitoring 1%",
+			"boundingbox": {
+				"center_x": 382,
+				"center_y": 454,
+				"width": 71,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Administratering 37%",
+			"boundingbox": {
+				"center_x": 643,
+				"center_y": 437,
+				"width": 91,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Dispensing 21%",
+			"boundingbox": {
+				"center_x": 407,
+				"center_y": 113,
+				"width": 71,
+				"height": 31,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,169 @@
+{
+	"id": "line049",
+	"src": "CHIME-line",
+	"no.": "049",
+	"width": 649,
+	"height": 424,
+	"textelements": [ 
+		{
+			"content": "5.60",
+			"boundingbox": {
+				"center_x": 598,
+				"center_y": 25,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5.40",
+			"boundingbox": {
+				"center_x": 598,
+				"center_y": 75,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5.20",
+			"boundingbox": {
+				"center_x": 598,
+				"center_y": 126,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5.00",
+			"boundingbox": {
+				"center_x": 598,
+				"center_y": 176,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4.80",
+			"boundingbox": {
+				"center_x": 597,
+				"center_y": 226,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4.60",
+			"boundingbox": {
+				"center_x": 597,
+				"center_y": 277,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4.40",
+			"boundingbox": {
+				"center_x": 597,
+				"center_y": 327,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Yield",
+			"boundingbox": {
+				"center_x": 621,
+				"center_y": 175,
+				"width": 10,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 346,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 51,
+				"center_y": 346,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 73,
+				"center_y": 346,
+				"width": 3,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 123,
+				"center_y": 346,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 221,
+				"center_y": 346,
+				"width": 5,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 369,
+				"center_y": 346,
+				"width": 11,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30",
+			"boundingbox": {
+				"center_x": 565,
+				"center_y": 346,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Security",
+			"boundingbox": {
+				"center_x": 296,
+				"center_y": 370,
+				"width": 47,
+				"height": 13,
+				"orientation": 0
+			}
+		}
+	]
+}

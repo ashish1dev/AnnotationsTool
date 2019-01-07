@@ -1,0 +1,159 @@
+{
+	"id": "line033",
+	"src": "CHIME-line",
+	"no.": "033",
+	"width": 440,
+	"height": 347,
+	"textelements": [ 
+		{
+			"content": "Current patient trends",
+			"boundingbox": {
+				"center_x": 220,
+				"center_y": 12,
+				"width": 322,
+				"height": 21,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3,000",
+			"boundingbox": {
+				"center_x": 23,
+				"center_y": 93,
+				"width": 30,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2,500",
+			"boundingbox": {
+				"center_x": 23,
+				"center_y": 129,
+				"width": 30,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2,000",
+			"boundingbox": {
+				"center_x": 23,
+				"center_y": 164,
+				"width": 30,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1,500",
+			"boundingbox": {
+				"center_x": 23,
+				"center_y": 200,
+				"width": 29,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1,000",
+			"boundingbox": {
+				"center_x": 23,
+				"center_y": 235,
+				"width": 29,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "500",
+			"boundingbox": {
+				"center_x": 28,
+				"center_y": 270,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 34,
+				"center_y": 305,
+				"width": 7,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1992",
+			"boundingbox": {
+				"center_x": 46,
+				"center_y": 318,
+				"width": 27,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1994",
+			"boundingbox": {
+				"center_x": 138,
+				"center_y": 318,
+				"width": 27,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 231,
+				"center_y": 318,
+				"width": 26,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 323,
+				"center_y": 318,
+				"width": 26,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 414,
+				"center_y": 318,
+				"width": 27,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Number in thousands",
+			"boundingbox": {
+				"center_x": 107,
+				"center_y": 83,
+				"width": 123,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "All ages",
+			"boundingbox": {
+				"center_x": 386,
+				"center_y": 165,
+				"width": 78,
+				"height": 15,
+				"orientation": 0
+			}
+		}
+	]
+}

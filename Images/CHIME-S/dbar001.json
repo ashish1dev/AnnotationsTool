@@ -1,0 +1,149 @@
+{
+	"id": "dbar001",
+	"src": "CHIME-dbar",
+	"no.": "001",
+	"width": 492,
+	"height": 303,
+	"textelements": [ 
+		{
+			"content": "Percent",
+			"boundingbox": {
+				"center_x": 58,
+				"center_y": 14,
+				"width": 45,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 26,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 66,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 105,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "-5",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 145,
+				"width": 11,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "-10",
+			"boundingbox": {
+				"center_x": 15,
+				"center_y": 184,
+				"width": 18,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "-15",
+			"boundingbox": {
+				"center_x": 15,
+				"center_y": 224,
+				"width": 18,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "-20",
+			"boundingbox": {
+				"center_x": 15,
+				"center_y": 263,
+				"width": 18,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Mar-02",
+			"boundingbox": {
+				"center_x": 69,
+				"center_y": 282,
+				"width": 37,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jun-02",
+			"boundingbox": {
+				"center_x": 140,
+				"center_y": 282,
+				"width": 38,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Sep-02",
+			"boundingbox": {
+				"center_x": 210,
+				"center_y": 283,
+				"width": 39,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Dec-02",
+			"boundingbox": {
+				"center_x": 280,
+				"center_y": 282,
+				"width": 39,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Mar-03",
+			"boundingbox": {
+				"center_x": 351,
+				"center_y": 282,
+				"width": 37,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jun-03",
+			"boundingbox": {
+				"center_x": 421,
+				"center_y": 282,
+				"width": 38,
+				"height": 10,
+				"orientation": 0
+			}
+		}
+	]
+}

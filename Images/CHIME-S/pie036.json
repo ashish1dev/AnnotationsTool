@@ -1,0 +1,39 @@
+{
+	"id": "pie036",
+	"src": "CHIME-pie",
+	"no.": "036",
+	"width": 367,
+	"height": 257,
+	"textelements": [ 
+		{
+			"content": "Others (79%)",
+			"boundingbox": {
+				"center_x": 94,
+				"center_y": 53,
+				"width": 38,
+				"height": 23,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Uncommitted (8%)",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 150,
+				"width": 79,
+				"height": 25,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Expansion/County (12.5%)",
+			"boundingbox": {
+				"center_x": 81,
+				"center_y": 221,
+				"width": 104,
+				"height": 25,
+				"orientation": 0
+			}
+		}
+	]
+}

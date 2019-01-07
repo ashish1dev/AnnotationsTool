@@ -1,0 +1,169 @@
+{
+	"id": "line050",
+	"src": "CHIME-line",
+	"no.": "050",
+	"width": 423,
+	"height": 237,
+	"textelements": [ 
+		{
+			"content": "Sales Growth vs Market Growth",
+			"boundingbox": {
+				"center_x": 211,
+				"center_y": 17,
+				"width": 187,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30%",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 79,
+				"width": 17,
+				"height": 6,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20%",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 119,
+				"width": 17,
+				"height": 6,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10%",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 158,
+				"width": 17,
+				"height": 5,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0%",
+			"boundingbox": {
+				"center_x": 38,
+				"center_y": 198,
+				"width": 13,
+				"height": 6,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Years",
+			"boundingbox": {
+				"center_x": 12,
+				"center_y": 118,
+				"width": 7,
+				"height": 29,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1995",
+			"boundingbox": {
+				"center_x": 71,
+				"center_y": 203,
+				"width": 22,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 104,
+				"center_y": 203,
+				"width": 22,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1997",
+			"boundingbox": {
+				"center_x": 137,
+				"center_y": 203,
+				"width": 21,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 171,
+				"center_y": 203,
+				"width": 22,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1999",
+			"boundingbox": {
+				"center_x": 204,
+				"center_y": 203,
+				"width": 22,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 237,
+				"center_y": 203,
+				"width": 23,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2001",
+			"boundingbox": {
+				"center_x": 270,
+				"center_y": 203,
+				"width": 21,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2002",
+			"boundingbox": {
+				"center_x": 304,
+				"center_y": 203,
+				"width": 22,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "%",
+			"boundingbox": {
+				"center_x": 211,
+				"center_y": 218,
+				"width": 9,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40%",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 40,
+				"width": 18,
+				"height": 6,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "pie047",
+	"src": "CHIME-pie",
+	"no.": "047",
+	"width": 375,
+	"height": 305,
+	"textelements": [ 
+		{
+			"content": "Goods 14.62%",
+			"boundingbox": {
+				"center_x": 117,
+				"center_y": 98,
+				"width": 38,
+				"height": 25,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Intergovernmental 5.30%",
+			"boundingbox": {
+				"center_x": 60,
+				"center_y": 153,
+				"width": 94,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Permits 23.38%",
+			"boundingbox": {
+				"center_x": 91,
+				"center_y": 246,
+				"width": 39,
+				"height": 24,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Taxes 54.11%",
+			"boundingbox": {
+				"center_x": 324,
+				"center_y": 197,
+				"width": 39,
+				"height": 24,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Miscellaneous 0.81%",
+			"boundingbox": {
+				"center_x": 245,
+				"center_y": 69,
+				"width": 73,
+				"height": 24,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Forfeitures 1.78%",
+			"boundingbox": {
+				"center_x": 164,
+				"center_y": 66,
+				"width": 56,
+				"height": 24,
+				"orientation": 0
+			}
+		}
+	]
+}

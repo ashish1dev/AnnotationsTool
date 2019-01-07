@@ -1,0 +1,39 @@
+{
+	"id": "pie040",
+	"src": "CHIME-pie",
+	"no.": "040",
+	"width": 240,
+	"height": 263,
+	"textelements": [ 
+		{
+			"content": "OTHER GASES",
+			"boundingbox": {
+				"center_x": 119,
+				"center_y": 14,
+				"width": 95,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "OXYGEN",
+			"boundingbox": {
+				"center_x": 204,
+				"center_y": 40,
+				"width": 58,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "NITROGEN",
+			"boundingbox": {
+				"center_x": 38,
+				"center_y": 251,
+				"width": 72,
+				"height": 13,
+				"orientation": 0
+			}
+		}
+	]
+}

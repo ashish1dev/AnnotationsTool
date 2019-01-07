@@ -1,0 +1,229 @@
+{
+	"id": "line052",
+	"src": "CHIME-line",
+	"no.": "052",
+	"width": 490,
+	"height": 265,
+	"textelements": [ 
+		{
+			"content": "49000",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 18,
+				"width": 37,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "42000",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 44,
+				"width": 37,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "35000",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 71,
+				"width": 37,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "28000",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 98,
+				"width": 37,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "21000",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 124,
+				"width": 37,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "14000",
+			"boundingbox": {
+				"center_x": 46,
+				"center_y": 151,
+				"width": 36,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7000",
+			"boundingbox": {
+				"center_x": 48,
+				"center_y": 178,
+				"width": 29,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 60,
+				"center_y": 204,
+				"width": 8,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Number of Passengers",
+			"boundingbox": {
+				"center_x": 16,
+				"center_y": 113,
+				"width": 14,
+				"height": 134,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jul",
+			"boundingbox": {
+				"center_x": 89,
+				"center_y": 221,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Aug",
+			"boundingbox": {
+				"center_x": 123,
+				"center_y": 222,
+				"width": 22,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Sep",
+			"boundingbox": {
+				"center_x": 154,
+				"center_y": 222,
+				"width": 20,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Oct",
+			"boundingbox": {
+				"center_x": 185,
+				"center_y": 221,
+				"width": 19,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Nov",
+			"boundingbox": {
+				"center_x": 220,
+				"center_y": 221,
+				"width": 22,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Dec",
+			"boundingbox": {
+				"center_x": 250,
+				"center_y": 221,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jan",
+			"boundingbox": {
+				"center_x": 282,
+				"center_y": 221,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Feb",
+			"boundingbox": {
+				"center_x": 314,
+				"center_y": 221,
+				"width": 19,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Mar",
+			"boundingbox": {
+				"center_x": 348,
+				"center_y": 221,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Apr",
+			"boundingbox": {
+				"center_x": 378,
+				"center_y": 222,
+				"width": 20,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "May",
+			"boundingbox": {
+				"center_x": 411,
+				"center_y": 222,
+				"width": 21,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jun",
+			"boundingbox": {
+				"center_x": 443,
+				"center_y": 221,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Month",
+			"boundingbox": {
+				"center_x": 265,
+				"center_y": 242,
+				"width": 36,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

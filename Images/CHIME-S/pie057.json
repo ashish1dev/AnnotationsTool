@@ -1,0 +1,79 @@
+{
+	"id": "pie057",
+	"src": "CHIME-pie",
+	"no.": "057",
+	"width": 461,
+	"height": 303,
+	"textelements": [ 
+		{
+			"content": "Apple 22%",
+			"boundingbox": {
+				"center_x": 168,
+				"center_y": 98,
+				"width": 33,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "American 11%",
+			"boundingbox": {
+				"center_x": 124,
+				"center_y": 180,
+				"width": 57,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Humble 22%",
+			"boundingbox": {
+				"center_x": 182,
+				"center_y": 248,
+				"width": 42,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Blackbird 24%",
+			"boundingbox": {
+				"center_x": 324,
+				"center_y": 218,
+				"width": 54,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Shepherd's 12%",
+			"boundingbox": {
+				"center_x": 323,
+				"center_y": 126,
+				"width": 65,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Whortleberry 9%",
+			"boundingbox": {
+				"center_x": 293,
+				"center_y": 86,
+				"width": 80,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Pie chart",
+			"boundingbox": {
+				"center_x": 229,
+				"center_y": 20,
+				"width": 67,
+				"height": 12,
+				"orientation": 0
+			}
+		}
+	]
+}

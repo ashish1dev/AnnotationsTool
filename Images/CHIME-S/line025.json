@@ -1,0 +1,79 @@
+{
+	"id": "line025",
+	"src": "CHIME-line",
+	"no.": "025",
+	"width": 481,
+	"height": 334,
+	"textelements": [ 
+		{
+			"content": "X-bar Subgroups within Specifications",
+			"boundingbox": {
+				"center_x": 232,
+				"center_y": 7,
+				"width": 256,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 8,
+				"center_y": 49,
+				"width": 16,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "98",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 100,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "96",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 153,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "94",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 204,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "92",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 257,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "90",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 309,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": "pie055",
+	"src": "CHIME-pie",
+	"no.": "055",
+	"width": 361,
+	"height": 204,
+	"textelements": [ 
+		{
+			"content": "UK 42",
+			"boundingbox": {
+				"center_x": 65,
+				"center_y": 17,
+				"width": 37,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Ireland 358",
+			"boundingbox": {
+				"center_x": 255,
+				"center_y": 160,
+				"width": 66,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

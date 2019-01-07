@@ -1,0 +1,199 @@
+{
+	"id": "line018",
+	"src": "CHIME-line",
+	"no.": "018",
+	"width": 535,
+	"height": 488,
+	"textelements": [ 
+		{
+			"content": "Drugs in development for the treatment of diabetes",
+			"boundingbox": {
+				"center_x": 262,
+				"center_y": 34,
+				"width": 469,
+				"height": 17,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "300",
+			"boundingbox": {
+				"center_x": 67,
+				"center_y": 90,
+				"width": 24,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "250",
+			"boundingbox": {
+				"center_x": 67,
+				"center_y": 134,
+				"width": 24,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "200",
+			"boundingbox": {
+				"center_x": 67,
+				"center_y": 178,
+				"width": 24,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "150",
+			"boundingbox": {
+				"center_x": 67,
+				"center_y": 222,
+				"width": 23,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 67,
+				"center_y": 266,
+				"width": 23,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "50",
+			"boundingbox": {
+				"center_x": 71,
+				"center_y": 310,
+				"width": 16,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 75,
+				"center_y": 354,
+				"width": 8,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1995",
+			"boundingbox": {
+				"center_x": 88,
+				"center_y": 384,
+				"width": 10,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 121,
+				"center_y": 384,
+				"width": 10,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1997",
+			"boundingbox": {
+				"center_x": 153,
+				"center_y": 384,
+				"width": 10,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 185,
+				"center_y": 384,
+				"width": 10,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1999",
+			"boundingbox": {
+				"center_x": 217,
+				"center_y": 384,
+				"width": 10,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 249,
+				"center_y": 383,
+				"width": 10,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2001",
+			"boundingbox": {
+				"center_x": 281,
+				"center_y": 383,
+				"width": 10,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2002",
+			"boundingbox": {
+				"center_x": 313,
+				"center_y": 383,
+				"width": 10,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2003",
+			"boundingbox": {
+				"center_x": 345,
+				"center_y": 383,
+				"width": 10,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2004",
+			"boundingbox": {
+				"center_x": 377,
+				"center_y": 384,
+				"width": 10,
+				"height": 32,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "No. Drugs",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 223,
+				"width": 12,
+				"height": 58,
+				"orientation": 0
+			}
+		}
+	]
+}

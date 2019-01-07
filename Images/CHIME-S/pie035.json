@@ -1,0 +1,59 @@
+{
+	"id": "pie035",
+	"src": "CHIME-pie",
+	"no.": "035",
+	"width": 563,
+	"height": 502,
+	"textelements": [ 
+		{
+			"content": "climate Forcing by Greenhouse Gas Increases since the Industrial Revolution",
+			"boundingbox": {
+				"center_x": 270,
+				"center_y": 41,
+				"width": 408,
+				"height": 33,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Carbon Dioxide 1.56 W/m**2",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 406,
+				"width": 125,
+				"height": 33,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Methane 0.47 W/m**2",
+			"boundingbox": {
+				"center_x": 432,
+				"center_y": 115,
+				"width": 107,
+				"height": 33,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Nitrous Oxide 0.14 W/m**2",
+			"boundingbox": {
+				"center_x": 494,
+				"center_y": 232,
+				"width": 111,
+				"height": 33,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Halocarbons 0.24 W/m**2",
+			"boundingbox": {
+				"center_x": 485,
+				"center_y": 330,
+				"width": 106,
+				"height": 33,
+				"orientation": 0
+			}
+		}
+	]
+}

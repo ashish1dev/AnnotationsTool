@@ -1,0 +1,129 @@
+{
+	"id": "line030",
+	"src": "CHIME-line",
+	"no.": "030",
+	"width": 190,
+	"height": 204,
+	"textelements": [ 
+		{
+			"content": "Rising",
+			"boundingbox": {
+				"center_x": 108,
+				"center_y": 11,
+				"width": 42,
+				"height": 17,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "80",
+			"boundingbox": {
+				"center_x": 29,
+				"center_y": 47,
+				"width": 12,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "70",
+			"boundingbox": {
+				"center_x": 29,
+				"center_y": 70,
+				"width": 12,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 28,
+				"center_y": 93,
+				"width": 13,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "50",
+			"boundingbox": {
+				"center_x": 28,
+				"center_y": 116,
+				"width": 12,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40",
+			"boundingbox": {
+				"center_x": 28,
+				"center_y": 139,
+				"width": 12,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30",
+			"boundingbox": {
+				"center_x": 28,
+				"center_y": 163,
+				"width": 13,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Percent",
+			"boundingbox": {
+				"center_x": 8,
+				"center_y": 115,
+				"width": 12,
+				"height": 37,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1988",
+			"boundingbox": {
+				"center_x": 60,
+				"center_y": 195,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1992",
+			"boundingbox": {
+				"center_x": 96,
+				"center_y": 195,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 132,
+				"center_y": 195,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 169,
+				"center_y": 195,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		}
+	]
+}

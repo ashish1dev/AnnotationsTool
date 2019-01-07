@@ -1,0 +1,229 @@
+{
+	"id": "line017",
+	"src": "CHIME-line",
+	"no.": "017",
+	"width": 456,
+	"height": 269,
+	"textelements": [ 
+		{
+			"content": "Large Trucks Registered",
+			"boundingbox": {
+				"center_x": 245,
+				"center_y": 19,
+				"width": 138,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8,500,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 42,
+				"width": 44,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8,000,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 70,
+				"width": 44,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7,500,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 99,
+				"width": 44,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7,000,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 127,
+				"width": 44,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6,500,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 153,
+				"width": 44,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6,000,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 181,
+				"width": 44,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5,500,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 209,
+				"width": 44,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5,000,000",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 238,
+				"width": 44,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1990",
+			"boundingbox": {
+				"center_x": 80,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1991",
+			"boundingbox": {
+				"center_x": 108,
+				"center_y": 252,
+				"width": 19,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1992",
+			"boundingbox": {
+				"center_x": 138,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1993",
+			"boundingbox": {
+				"center_x": 167,
+				"center_y": 252,
+				"width": 21,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1994",
+			"boundingbox": {
+				"center_x": 197,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1995",
+			"boundingbox": {
+				"center_x": 226,
+				"center_y": 252,
+				"width": 20,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 254,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1997",
+			"boundingbox": {
+				"center_x": 284,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 314,
+				"center_y": 252,
+				"width": 20,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1999",
+			"boundingbox": {
+				"center_x": 342,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 371,
+				"center_y": 252,
+				"width": 22,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2001",
+			"boundingbox": {
+				"center_x": 399,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2002",
+			"boundingbox": {
+				"center_x": 429,
+				"center_y": 252,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		}
+	]
+}

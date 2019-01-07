@@ -1,0 +1,79 @@
+{
+	"id": "pie032",
+	"src": "CHIME-pie",
+	"no.": "032",
+	"width": 375,
+	"height": 231,
+	"textelements": [ 
+		{
+			"content": "Big Sky Families 13%",
+			"boundingbox": {
+				"center_x": 199,
+				"center_y": 9,
+				"width": 141,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Fast-Track Families 13%",
+			"boundingbox": {
+				"center_x": 279,
+				"center_y": 62,
+				"width": 157,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Upper Crust 13%",
+			"boundingbox": {
+				"center_x": 274,
+				"center_y": 109,
+				"width": 112,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Big Fish, Small Pond 5%",
+			"boundingbox": {
+				"center_x": 294,
+				"center_y": 138,
+				"width": 157,
+				"height": 16,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Country Casual 3%",
+			"boundingbox": {
+				"center_x": 278,
+				"center_y": 161,
+				"width": 133,
+				"height": 16,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Second City Elite 2%",
+			"boundingbox": {
+				"center_x": 271,
+				"center_y": 180,
+				"width": 136,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Other 66%",
+			"boundingbox": {
+				"center_x": 235,
+				"center_y": 204,
+				"width": 73,
+				"height": 12,
+				"orientation": 0
+			}
+		}
+	]
+}

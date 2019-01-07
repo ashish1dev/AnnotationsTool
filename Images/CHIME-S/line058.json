@@ -1,0 +1,129 @@
+{
+	"id": "line058",
+	"src": "CHIME-line",
+	"no.": "058",
+	"width": 354,
+	"height": 218,
+	"textelements": [ 
+		{
+			"content": "Line Chart",
+			"boundingbox": {
+				"center_x": 179,
+				"center_y": 18,
+				"width": 92,
+				"height": 16,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 57,
+				"center_y": 52,
+				"width": 25,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "80",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 85,
+				"width": 17,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 118,
+				"width": 17,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 151,
+				"width": 17,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 185,
+				"width": 17,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 109,
+				"center_y": 194,
+				"width": 5,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 157,
+				"center_y": 194,
+				"width": 8,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 157,
+				"center_y": 194,
+				"width": 8,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 204,
+				"center_y": 194,
+				"width": 8,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 250,
+				"center_y": 194,
+				"width": 9,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 298,
+				"center_y": 194,
+				"width": 8,
+				"height": 12,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "pie062",
+	"src": "CHIME-pie",
+	"no.": "062",
+	"width": 350,
+	"height": 350,
+	"textelements": [ 
+		{
+			"content": "Private",
+			"boundingbox": {
+				"center_x": 300,
+				"center_y": 298,
+				"width": 38,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Self",
+			"boundingbox": {
+				"center_x": 330,
+				"center_y": 111,
+				"width": 22,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Nonprofit",
+			"boundingbox": {
+				"center_x": 314,
+				"center_y": 64,
+				"width": 52,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Government",
+			"boundingbox": {
+				"center_x": 266,
+				"center_y": 28,
+				"width": 69,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Academic",
+			"boundingbox": {
+				"center_x": 38,
+				"center_y": 79,
+				"width": 54,
+				"height": 9,
+				"orientation": 0
+			}
+		}
+	]
+}

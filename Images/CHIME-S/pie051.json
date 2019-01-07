@@ -1,0 +1,49 @@
+{
+	"id": "pie051",
+	"src": "CHIME-pie",
+	"no.": "051",
+	"width": 311,
+	"height": 223,
+	"textelements": [ 
+		{
+			"content": "Other Regions 15%",
+			"boundingbox": {
+				"center_x": 63,
+				"center_y": 35,
+				"width": 81,
+				"height": 24,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Africa 15%",
+			"boundingbox": {
+				"center_x": 37,
+				"center_y": 103,
+				"width": 32,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Persian Gulf 20%",
+			"boundingbox": {
+				"center_x": 43,
+				"center_y": 184,
+				"width": 68,
+				"height": 25,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Western Hemisphere 50%",
+			"boundingbox": {
+				"center_x": 257,
+				"center_y": 102,
+				"width": 66,
+				"height": 40,
+				"orientation": 0
+			}
+		}
+	]
+}

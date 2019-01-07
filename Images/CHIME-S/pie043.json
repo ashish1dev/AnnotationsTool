@@ -1,0 +1,49 @@
+{
+	"id": "pie043",
+	"src": "CHIME-pie",
+	"no.": "043",
+	"width": 324,
+	"height": 223,
+	"textelements": [ 
+		{
+			"content": "Environment 34%",
+			"boundingbox": {
+				"center_x": 35,
+				"center_y": 47,
+				"width": 50,
+				"height": 18,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Government 30%",
+			"boundingbox": {
+				"center_x": 148,
+				"center_y": 194,
+				"width": 50,
+				"height": 20,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Education 7%",
+			"boundingbox": {
+				"center_x": 252,
+				"center_y": 149,
+				"width": 39,
+				"height": 18,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Mining, Engineering 7%",
+			"boundingbox": {
+				"center_x": 278,
+				"center_y": 102,
+				"width": 80,
+				"height": 21,
+				"orientation": 0
+			}
+		}
+	]
+}

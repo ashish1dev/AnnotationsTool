@@ -1,0 +1,169 @@
+{
+	"id": "line059",
+	"src": "CHIME-line",
+	"no.": "059",
+	"width": 550,
+	"height": 360,
+	"textelements": [ 
+		{
+			"content": "Micro$oft At Work",
+			"boundingbox": {
+				"center_x": 274,
+				"center_y": 12,
+				"width": 99,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5,500",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 33,
+				"width": 42,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4,400",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 79,
+				"width": 42,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3,300",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 125,
+				"width": 42,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2,200",
+			"boundingbox": {
+				"center_x": 61,
+				"center_y": 171,
+				"width": 42,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1,100",
+			"boundingbox": {
+				"center_x": 63,
+				"center_y": 218,
+				"width": 38,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 77,
+				"center_y": 263,
+				"width": 9,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Problems",
+			"boundingbox": {
+				"center_x": 15,
+				"center_y": 151,
+				"width": 11,
+				"height": 49,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 121,
+				"center_y": 279,
+				"width": 36,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1999",
+			"boundingbox": {
+				"center_x": 186,
+				"center_y": 281,
+				"width": 34,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 250,
+				"center_y": 280,
+				"width": 39,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2001",
+			"boundingbox": {
+				"center_x": 316,
+				"center_y": 280,
+				"width": 36,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2002",
+			"boundingbox": {
+				"center_x": 381,
+				"center_y": 280,
+				"width": 38,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2003",
+			"boundingbox": {
+				"center_x": 446,
+				"center_y": 281,
+				"width": 39,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2004",
+			"boundingbox": {
+				"center_x": 511,
+				"center_y": 281,
+				"width": 39,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Years",
+			"boundingbox": {
+				"center_x": 316,
+				"center_y": 303,
+				"width": 30,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

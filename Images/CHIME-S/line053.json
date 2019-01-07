@@ -1,0 +1,219 @@
+{
+	"id": "line053",
+	"src": "CHIME-line",
+	"no.": "053",
+	"width": 610,
+	"height": 392,
+	"textelements": [ 
+		{
+			"content": "18000",
+			"boundingbox": {
+				"center_x": 65,
+				"center_y": 32,
+				"width": 39,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "15000",
+			"boundingbox": {
+				"center_x": 65,
+				"center_y": 79,
+				"width": 39,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "12000",
+			"boundingbox": {
+				"center_x": 65,
+				"center_y": 126,
+				"width": 39,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "9000",
+			"boundingbox": {
+				"center_x": 69,
+				"center_y": 174,
+				"width": 32,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6000",
+			"boundingbox": {
+				"center_x": 69,
+				"center_y": 221,
+				"width": 32,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3000",
+			"boundingbox": {
+				"center_x": 69,
+				"center_y": 268,
+				"width": 32,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 81,
+				"center_y": 315,
+				"width": 8,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Number of Vehicles",
+			"boundingbox": {
+				"center_x": 26,
+				"center_y": 171,
+				"width": 13,
+				"height": 141,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jul",
+			"boundingbox": {
+				"center_x": 116,
+				"center_y": 334,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Aug",
+			"boundingbox": {
+				"center_x": 157,
+				"center_y": 336,
+				"width": 27,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Sep",
+			"boundingbox": {
+				"center_x": 199,
+				"center_y": 336,
+				"width": 26,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Oct",
+			"boundingbox": {
+				"center_x": 241,
+				"center_y": 334,
+				"width": 24,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Nov",
+			"boundingbox": {
+				"center_x": 281,
+				"center_y": 334,
+				"width": 27,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Dec",
+			"boundingbox": {
+				"center_x": 323,
+				"center_y": 334,
+				"width": 26,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jan",
+			"boundingbox": {
+				"center_x": 363,
+				"center_y": 334,
+				"width": 25,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Feb",
+			"boundingbox": {
+				"center_x": 405,
+				"center_y": 334,
+				"width": 26,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Mar",
+			"boundingbox": {
+				"center_x": 446,
+				"center_y": 334,
+				"width": 27,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Apr",
+			"boundingbox": {
+				"center_x": 487,
+				"center_y": 336,
+				"width": 25,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "May",
+			"boundingbox": {
+				"center_x": 529,
+				"center_y": 336,
+				"width": 28,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Jun",
+			"boundingbox": {
+				"center_x": 569,
+				"center_y": 334,
+				"width": 26,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Month",
+			"boundingbox": {
+				"center_x": 342,
+				"center_y": 359,
+				"width": 44,
+				"height": 13,
+				"orientation": 0
+			}
+		}
+	]
+}

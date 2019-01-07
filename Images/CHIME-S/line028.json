@@ -1,0 +1,169 @@
+{
+	"id": "line028",
+	"src": "CHIME-line",
+	"no.": "028",
+	"width": 453,
+	"height": 293,
+	"textelements": [ 
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 42,
+				"center_y": 27,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "16",
+			"boundingbox": {
+				"center_x": 41,
+				"center_y": 68,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "12",
+			"boundingbox": {
+				"center_x": 41,
+				"center_y": 107,
+				"width": 11,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8",
+			"boundingbox": {
+				"center_x": 43,
+				"center_y": 149,
+				"width": 7,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 189,
+				"width": 8,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 230,
+				"width": 7,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "79",
+			"boundingbox": {
+				"center_x": 56,
+				"center_y": 249,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "81",
+			"boundingbox": {
+				"center_x": 106,
+				"center_y": 249,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "83",
+			"boundingbox": {
+				"center_x": 161,
+				"center_y": 249,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "85",
+			"boundingbox": {
+				"center_x": 213,
+				"center_y": 249,
+				"width": 14,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "87",
+			"boundingbox": {
+				"center_x": 265,
+				"center_y": 249,
+				"width": 14,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "89",
+			"boundingbox": {
+				"center_x": 317,
+				"center_y": 249,
+				"width": 14,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "91",
+			"boundingbox": {
+				"center_x": 368,
+				"center_y": 249,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "93",
+			"boundingbox": {
+				"center_x": 423,
+				"center_y": 249,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "LBL % OF TOTAL LAB FUNDING",
+			"boundingbox": {
+				"center_x": 20,
+				"center_y": 126,
+				"width": 9,
+				"height": 146,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "FISCAL YEAR",
+			"boundingbox": {
+				"center_x": 237,
+				"center_y": 269,
+				"width": 56,
+				"height": 8,
+				"orientation": 0
+			}
+		}
+	]
+}

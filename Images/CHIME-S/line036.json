@@ -1,0 +1,119 @@
+{
+	"id": "line036",
+	"src": "CHIME-line",
+	"no.": "036",
+	"width": 250,
+	"height": 193,
+	"textelements": [ 
+		{
+			"content": "Age Distribution Calgary City, 1996",
+			"boundingbox": {
+				"center_x": 124,
+				"center_y": 15,
+				"width": 83,
+				"height": 23,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "300,000",
+			"boundingbox": {
+				"center_x": 28,
+				"center_y": 40,
+				"width": 28,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 169,
+				"width": 5,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0-4",
+			"boundingbox": {
+				"center_x": 60,
+				"center_y": 176,
+				"width": 12,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5-14",
+			"boundingbox": {
+				"center_x": 83,
+				"center_y": 176,
+				"width": 16,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "15-19",
+			"boundingbox": {
+				"center_x": 106,
+				"center_y": 176,
+				"width": 20,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20-24",
+			"boundingbox": {
+				"center_x": 129,
+				"center_y": 176,
+				"width": 20,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "25-44",
+			"boundingbox": {
+				"center_x": 152,
+				"center_y": 176,
+				"width": 20,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "45-54",
+			"boundingbox": {
+				"center_x": 175,
+				"center_y": 176,
+				"width": 20,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "55-84",
+			"boundingbox": {
+				"center_x": 198,
+				"center_y": 176,
+				"width": 20,
+				"height": 7,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "85+",
+			"boundingbox": {
+				"center_x": 221,
+				"center_y": 176,
+				"width": 13,
+				"height": 7,
+				"orientation": 0
+			}
+		}
+	]
+}

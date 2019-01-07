@@ -1,0 +1,139 @@
+{
+	"id": "line048",
+	"src": "CHIME-line",
+	"no.": "048",
+	"width": 292,
+	"height": 202,
+	"textelements": [ 
+		{
+			"content": "50",
+			"boundingbox": {
+				"center_x": 42,
+				"center_y": 5,
+				"width": 13,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40",
+			"boundingbox": {
+				"center_x": 42,
+				"center_y": 35,
+				"width": 13,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30",
+			"boundingbox": {
+				"center_x": 42,
+				"center_y": 66,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 42,
+				"center_y": 96,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 43,
+				"center_y": 126,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 157,
+				"width": 7,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1993",
+			"boundingbox": {
+				"center_x": 77,
+				"center_y": 172,
+				"width": 26,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1994",
+			"boundingbox": {
+				"center_x": 117,
+				"center_y": 172,
+				"width": 25,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1995",
+			"boundingbox": {
+				"center_x": 156,
+				"center_y": 172,
+				"width": 25,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 196,
+				"center_y": 172,
+				"width": 25,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1997",
+			"boundingbox": {
+				"center_x": 236,
+				"center_y": 172,
+				"width": 25,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 276,
+				"center_y": 172,
+				"width": 25,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Percent under Age 30",
+			"boundingbox": {
+				"center_x": 6,
+				"center_y": 81,
+				"width": 12,
+				"height": 110,
+				"orientation": 0
+			}
+		}
+	]
+}

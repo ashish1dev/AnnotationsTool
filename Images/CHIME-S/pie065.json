@@ -1,0 +1,69 @@
+{
+	"id": "pie065",
+	"src": "CHIME-pie",
+	"no.": "065",
+	"width": 550,
+	"height": 337,
+	"textelements": [ 
+		{
+			"content": "UTILITY (210K) 14.8%",
+			"boundingbox": {
+				"center_x": 108,
+				"center_y": 235,
+				"width": 60,
+				"height": 51,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "OTHERS (1,080K) 76.1%",
+			"boundingbox": {
+				"center_x": 501,
+				"center_y": 33,
+				"width": 69,
+				"height": 51,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "GOVERNMENT (29K) 2%",
+			"boundingbox": {
+				"center_x": 212,
+				"center_y": 23,
+				"width": 97,
+				"height": 45,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "ACADEMIC (5K) 0.3%",
+			"boundingbox": {
+				"center_x": 118,
+				"center_y": 47,
+				"width": 73,
+				"height": 47,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "INDUSTRIAL (94K) 6.7%",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 74,
+				"width": 81,
+				"height": 47,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "MEDICAL (1K) 0.1%",
+			"boundingbox": {
+				"center_x": 65,
+				"center_y": 135,
+				"width": 61,
+				"height": 47,
+				"orientation": 0
+			}
+		}
+	]
+}

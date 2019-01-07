@@ -1,0 +1,59 @@
+{
+	"id": "pie038",
+	"src": "CHIME-pie",
+	"no.": "038",
+	"width": 439,
+	"height": 391,
+	"textelements": [ 
+		{
+			"content": "White",
+			"boundingbox": {
+				"center_x": 168,
+				"center_y": 127,
+				"width": 31,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Hispanic",
+			"boundingbox": {
+				"center_x": 84,
+				"center_y": 266,
+				"width": 46,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Filipilo",
+			"boundingbox": {
+				"center_x": 343,
+				"center_y": 190,
+				"width": 35,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Black",
+			"boundingbox": {
+				"center_x": 304,
+				"center_y": 152,
+				"width": 29,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Asian",
+			"boundingbox": {
+				"center_x": 232,
+				"center_y": 117,
+				"width": 31,
+				"height": 9,
+				"orientation": 0
+			}
+		}
+	]
+}

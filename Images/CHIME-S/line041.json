@@ -1,0 +1,179 @@
+{
+	"id": "line041",
+	"src": "CHIME-line",
+	"no.": "041",
+	"width": 426,
+	"height": 272,
+	"textelements": [ 
+		{
+			"content": "LMC Noise Level (in Aggravation Units)",
+			"boundingbox": {
+				"center_x": 212,
+				"center_y": 22,
+				"width": 223,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1.2",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 58,
+				"width": 17,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 30,
+				"center_y": 82,
+				"width": 4,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0.8",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 106,
+				"width": 18,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0.6",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 130,
+				"width": 18,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0.4",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 153,
+				"width": 18,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0.2",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 177,
+				"width": 18,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 30,
+				"center_y": 201,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 60,
+				"center_y": 220,
+				"width": 4,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 92,
+				"center_y": 220,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 124,
+				"center_y": 220,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 156,
+				"center_y": 220,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 187,
+				"center_y": 220,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 219,
+				"center_y": 220,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7",
+			"boundingbox": {
+				"center_x": 251,
+				"center_y": 220,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8",
+			"boundingbox": {
+				"center_x": 283,
+				"center_y": 220,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Avg. Students/Table",
+			"boundingbox": {
+				"center_x": 171,
+				"center_y": 245,
+				"width": 135,
+				"height": 14,
+				"orientation": 0
+			}
+		}
+	]
+}

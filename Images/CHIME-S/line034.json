@@ -1,0 +1,229 @@
+{
+	"id": "line034",
+	"src": "CHIME-line",
+	"no.": "034",
+	"width": 391,
+	"height": 305,
+	"textelements": [ 
+		{
+			"content": "(%)",
+			"boundingbox": {
+				"center_x": 15,
+				"center_y": 64,
+				"width": 13,
+				"height": 21,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Cumulative Maturities",
+			"boundingbox": {
+				"center_x": 14,
+				"center_y": 141,
+				"width": 10,
+				"height": 128,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 15,
+				"width": 17,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "90",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 38,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "80",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 61,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "70",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 85,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 108,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "50",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 131,
+				"width": 11,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 154,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 177,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 201,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 39,
+				"center_y": 224,
+				"width": 11,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 42,
+				"center_y": 247,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 65,
+				"center_y": 266,
+				"width": 3,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30",
+			"boundingbox": {
+				"center_x": 110,
+				"center_y": 266,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 154,
+				"center_y": 266,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "90",
+			"boundingbox": {
+				"center_x": 198,
+				"center_y": 266,
+				"width": 12,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "120",
+			"boundingbox": {
+				"center_x": 243,
+				"center_y": 266,
+				"width": 17,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "180",
+			"boundingbox": {
+				"center_x": 287,
+				"center_y": 266,
+				"width": 17,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "270",
+			"boundingbox": {
+				"center_x": 331,
+				"center_y": 266,
+				"width": 18,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "397",
+			"boundingbox": {
+				"center_x": 375,
+				"center_y": 266,
+				"width": 18,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Days to Maturity",
+			"boundingbox": {
+				"center_x": 221,
+				"center_y": 290,
+				"width": 92,
+				"height": 13,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,159 @@
+{
+	"id": "line057",
+	"src": "CHIME-line",
+	"no.": "057",
+	"width": 500,
+	"height": 500,
+	"textelements": [ 
+		{
+			"content": "Line Chart",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 20,
+				"width": 85,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 48,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 115,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 182,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 249,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 316,
+				"width": 5,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 30,
+				"center_y": 383,
+				"width": 4,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 450,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "A",
+			"boundingbox": {
+				"center_x": 77,
+				"center_y": 463,
+				"width": 8,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "B",
+			"boundingbox": {
+				"center_x": 153,
+				"center_y": 463,
+				"width": 7,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "C",
+			"boundingbox": {
+				"center_x": 228,
+				"center_y": 463,
+				"width": 7,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "D",
+			"boundingbox": {
+				"center_x": 303,
+				"center_y": 463,
+				"width": 7,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "E",
+			"boundingbox": {
+				"center_x": 379,
+				"center_y": 463,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "primary dependent axis",
+			"boundingbox": {
+				"center_x": 16,
+				"center_y": 250,
+				"width": 9,
+				"height": 113,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "independent axis",
+			"boundingbox": {
+				"center_x": 226,
+				"center_y": 483,
+				"width": 82,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,139 @@
+{
+	"id": "line040",
+	"src": "CHIME-line",
+	"no.": "040",
+	"width": 400,
+	"height": 400,
+	"textelements": [ 
+		{
+			"content": "500",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 47,
+				"width": 18,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "400",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 105,
+				"width": 18,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "300",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 163,
+				"width": 18,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "200",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 220,
+				"width": 18,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 278,
+				"width": 17,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 335,
+				"width": 6,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1995",
+			"boundingbox": {
+				"center_x": 92,
+				"center_y": 349,
+				"width": 23,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 150,
+				"center_y": 349,
+				"width": 23,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1997",
+			"boundingbox": {
+				"center_x": 208,
+				"center_y": 349,
+				"width": 23,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 265,
+				"center_y": 349,
+				"width": 23,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1999",
+			"boundingbox": {
+				"center_x": 323,
+				"center_y": 349,
+				"width": 23,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Years",
+			"boundingbox": {
+				"center_x": 209,
+				"center_y": 371,
+				"width": 40,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Number of Cases",
+			"boundingbox": {
+				"center_x": 26,
+				"center_y": 194,
+				"width": 12,
+				"height": 114,
+				"orientation": 0
+			}
+		}
+	]
+}

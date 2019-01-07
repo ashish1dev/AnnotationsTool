@@ -1,0 +1,189 @@
+{
+	"id": "line054",
+	"src": "CHIME-line",
+	"no.": "054",
+	"width": 539,
+	"height": 330,
+	"textelements": [ 
+		{
+			"content": "% OF TOTAL",
+			"boundingbox": {
+				"center_x": 80,
+				"center_y": 23,
+				"width": 73,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 22,
+				"center_y": 35,
+				"width": 21,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "80",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 83,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 131,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40",
+			"boundingbox": {
+				"center_x": 25,
+				"center_y": 179,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 26,
+				"center_y": 227,
+				"width": 14,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 29,
+				"center_y": 275,
+				"width": 7,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1988",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1989",
+			"boundingbox": {
+				"center_x": 91,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1990",
+			"boundingbox": {
+				"center_x": 138,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1991",
+			"boundingbox": {
+				"center_x": 184,
+				"center_y": 291,
+				"width": 26,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1992",
+			"boundingbox": {
+				"center_x": 233,
+				"center_y": 291,
+				"width": 29,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1993",
+			"boundingbox": {
+				"center_x": 280,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1994",
+			"boundingbox": {
+				"center_x": 327,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1995",
+			"boundingbox": {
+				"center_x": 374,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 421,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1997",
+			"boundingbox": {
+				"center_x": 468,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 515,
+				"center_y": 291,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		}
+	]
+}

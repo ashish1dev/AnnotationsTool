@@ -1,0 +1,159 @@
+{
+	"id": "dbar003",
+	"src": "CHIME-dbar",
+	"no.": "003",
+	"width": 509,
+	"height": 238,
+	"textelements": [ 
+		{
+			"content": "Histogram(vertical bar chart)",
+			"boundingbox": {
+				"center_x": 235,
+				"center_y": 16,
+				"width": 172,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 46,
+				"width": 13,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "25",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 72,
+				"width": 13,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 72,
+				"width": 13,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 99,
+				"width": 13,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "15",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 125,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 151,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 178,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 21,
+				"center_y": 204,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Whortleberry",
+			"boundingbox": {
+				"center_x": 68,
+				"center_y": 219,
+				"width": 63,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Sheperd's",
+			"boundingbox": {
+				"center_x": 149,
+				"center_y": 219,
+				"width": 53,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Blackbird",
+			"boundingbox": {
+				"center_x": 224,
+				"center_y": 218,
+				"width": 41,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Humble",
+			"boundingbox": {
+				"center_x": 305,
+				"center_y": 218,
+				"width": 34,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "American",
+			"boundingbox": {
+				"center_x": 382,
+				"center_y": 218,
+				"width": 45,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Apple",
+			"boundingbox": {
+				"center_x": 461,
+				"center_y": 219,
+				"width": 27,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

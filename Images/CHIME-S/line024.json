@@ -1,0 +1,209 @@
+{
+	"id": "line024",
+	"src": "CHIME-line",
+	"no.": "024",
+	"width": 483,
+	"height": 285,
+	"textelements": [ 
+		{
+			"content": "Earthquakes - per month",
+			"boundingbox": {
+				"center_x": 241,
+				"center_y": 13,
+				"width": 146,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "520",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 32,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "500",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 68,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "480",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 105,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "460",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 141,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "440",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 178,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "420",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 214,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "400",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 250,
+				"width": 21,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 56,
+				"center_y": 264,
+				"width": 4,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 92,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 128,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 164,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 200,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 236,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7",
+			"boundingbox": {
+				"center_x": 272,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8",
+			"boundingbox": {
+				"center_x": 308,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "9",
+			"boundingbox": {
+				"center_x": 344,
+				"center_y": 264,
+				"width": 7,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 381,
+				"center_y": 264,
+				"width": 13,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "11",
+			"boundingbox": {
+				"center_x": 416,
+				"center_y": 264,
+				"width": 11,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "12",
+			"boundingbox": {
+				"center_x": 453,
+				"center_y": 264,
+				"width": 13,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

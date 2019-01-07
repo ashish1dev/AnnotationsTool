@@ -1,0 +1,159 @@
+{
+	"id": "line026",
+	"src": "CHIME-line",
+	"no.": "026",
+	"width": 557,
+	"height": 511,
+	"textelements": [ 
+		{
+			"content": "Execution time(s)",
+			"boundingbox": {
+				"center_x": 146,
+				"center_y": 15,
+				"width": 92,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1200000 mrd",
+			"boundingbox": {
+				"center_x": 52,
+				"center_y": 75,
+				"width": 74,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1000000 mrd",
+			"boundingbox": {
+				"center_x": 50,
+				"center_y": 116,
+				"width": 71,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "800000 mrd",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 158,
+				"width": 64,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "600000 mrd",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 200,
+				"width": 64,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "400000 mrd",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 241,
+				"width": 64,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "200000 mrd",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 283,
+				"width": 64,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Es war janner....",
+			"boundingbox": {
+				"center_x": 113,
+				"center_y": 388,
+				"width": 10,
+				"height": 85,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Es war ein Sonntag...",
+			"boundingbox": {
+				"center_x": 157,
+				"center_y": 402,
+				"width": 10,
+				"height": 113,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Ich war ein kleines kind...",
+			"boundingbox": {
+				"center_x": 214,
+				"center_y": 413,
+				"width": 8,
+				"height": 134,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Sind nicht alle kinder klein?",
+			"boundingbox": {
+				"center_x": 273,
+				"center_y": 419,
+				"width": 8,
+				"height": 147,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Alles ist relativ!",
+			"boundingbox": {
+				"center_x": 331,
+				"center_y": 385,
+				"width": 8,
+				"height": 79,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Was ist ein Paradox?",
+			"boundingbox": {
+				"center_x": 389,
+				"center_y": 403,
+				"width": 8,
+				"height": 114,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Ich luge immer!",
+			"boundingbox": {
+				"center_x": 449,
+				"center_y": 387,
+				"width": 10,
+				"height": 82,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Number of processors",
+			"boundingbox": {
+				"center_x": 475,
+				"center_y": 333,
+				"width": 121,
+				"height": 13,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "pie039",
+	"src": "CHIME-pie",
+	"no.": "039",
+	"width": 505,
+	"height": 528,
+	"textelements": [ 
+		{
+			"content": "Consumer Expenditures in 1992",
+			"boundingbox": {
+				"center_x": 259,
+				"center_y": 46,
+				"width": 453,
+				"height": 27,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Other 27%",
+			"boundingbox": {
+				"center_x": 122,
+				"center_y": 181,
+				"width": 38,
+				"height": 27,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Personal insurance and pensions 9%",
+			"boundingbox": {
+				"center_x": 87,
+				"center_y": 308,
+				"width": 130,
+				"height": 32,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Transportation 18%",
+			"boundingbox": {
+				"center_x": 253,
+				"center_y": 398,
+				"width": 134,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Housing 32%",
+			"boundingbox": {
+				"center_x": 438,
+				"center_y": 308,
+				"width": 57,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Food 14%",
+			"boundingbox": {
+				"center_x": 408,
+				"center_y": 150,
+				"width": 66,
+				"height": 12,
+				"orientation": 0
+			}
+		}
+	]
+}

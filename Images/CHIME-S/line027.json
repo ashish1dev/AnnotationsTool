@@ -1,0 +1,179 @@
+{
+	"id": "line027",
+	"src": "CHIME-line",
+	"no.": "027",
+	"width": 277,
+	"height": 215,
+	"textelements": [ 
+		{
+			"content": "$US dollars per barrel of Brent spot",
+			"boundingbox": {
+				"center_x": 103,
+				"center_y": 9,
+				"width": 200,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "35.0",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 32,
+				"width": 24,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "30.0",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 53,
+				"width": 24,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "25.0",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 74,
+				"width": 24,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20.0",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 97,
+				"width": 24,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "15.0",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 118,
+				"width": 23,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10.0",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 140,
+				"width": 23,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "05.0",
+			"boundingbox": {
+				"center_x": 17,
+				"center_y": 162,
+				"width": 24,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 26,
+				"center_y": 184,
+				"width": 6,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1986",
+			"boundingbox": {
+				"center_x": 53,
+				"center_y": 198,
+				"width": 26,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "88",
+			"boundingbox": {
+				"center_x": 82,
+				"center_y": 198,
+				"width": 13,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "90",
+			"boundingbox": {
+				"center_x": 113,
+				"center_y": 198,
+				"width": 13,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "92",
+			"boundingbox": {
+				"center_x": 142,
+				"center_y": 198,
+				"width": 13,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "94",
+			"boundingbox": {
+				"center_x": 173,
+				"center_y": 198,
+				"width": 14,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "96",
+			"boundingbox": {
+				"center_x": 201,
+				"center_y": 198,
+				"width": 13,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "98",
+			"boundingbox": {
+				"center_x": 230,
+				"center_y": 198,
+				"width": 13,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 260,
+				"center_y": 198,
+				"width": 27,
+				"height": 8,
+				"orientation": 0
+			}
+		}
+	]
+}

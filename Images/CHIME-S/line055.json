@@ -1,0 +1,189 @@
+{
+	"id": "line055",
+	"src": "CHIME-line",
+	"no.": "055",
+	"width": 495,
+	"height": 319,
+	"textelements": [ 
+		{
+			"content": "10-Year Cycle Life Balance Chart - The highest is the Best",
+			"boundingbox": {
+				"center_x": 246,
+				"center_y": 52,
+				"width": 331,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "120",
+			"boundingbox": {
+				"center_x": 30,
+				"center_y": 85,
+				"width": 18,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 30,
+				"center_y": 117,
+				"width": 18,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "80",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 149,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 181,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 212,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 244,
+				"width": 12,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 36,
+				"center_y": 276,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1956",
+			"boundingbox": {
+				"center_x": 66,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1963",
+			"boundingbox": {
+				"center_x": 100,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1973",
+			"boundingbox": {
+				"center_x": 134,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1983",
+			"boundingbox": {
+				"center_x": 168,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1993",
+			"boundingbox": {
+				"center_x": 201,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2003",
+			"boundingbox": {
+				"center_x": 235,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2013",
+			"boundingbox": {
+				"center_x": 269,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2023",
+			"boundingbox": {
+				"center_x": 302,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2033",
+			"boundingbox": {
+				"center_x": 336,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2043",
+			"boundingbox": {
+				"center_x": 370,
+				"center_y": 289,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,239 @@
+{
+	"id": "line020",
+	"src": "CHIME-line",
+	"no.": "020",
+	"width": 434,
+	"height": 311,
+	"textelements": [ 
+		{
+			"content": "Library Gate Counts - 1998",
+			"boundingbox": {
+				"center_x": 195,
+				"center_y": 23,
+				"width": 165,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "18000",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 59,
+				"width": 30,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "16000",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 77,
+				"width": 30,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "14000",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 96,
+				"width": 30,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "12000",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 114,
+				"width": 30,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10000",
+			"boundingbox": {
+				"center_x": 31,
+				"center_y": 133,
+				"width": 30,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8000",
+			"boundingbox": {
+				"center_x": 34,
+				"center_y": 151,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6000",
+			"boundingbox": {
+				"center_x": 34,
+				"center_y": 170,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4000",
+			"boundingbox": {
+				"center_x": 34,
+				"center_y": 188,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 34,
+				"center_y": 207,
+				"width": 24,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 43,
+				"center_y": 225,
+				"width": 6,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "January",
+			"boundingbox": {
+				"center_x": 54,
+				"center_y": 253,
+				"width": 11,
+				"height": 39,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Februrary",
+			"boundingbox": {
+				"center_x": 83,
+				"center_y": 256,
+				"width": 11,
+				"height": 44,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "March",
+			"boundingbox": {
+				"center_x": 112,
+				"center_y": 249,
+				"width": 9,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "April",
+			"boundingbox": {
+				"center_x": 142,
+				"center_y": 245,
+				"width": 11,
+				"height": 22,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "May",
+			"boundingbox": {
+				"center_x": 171,
+				"center_y": 244,
+				"width": 11,
+				"height": 20,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "June",
+			"boundingbox": {
+				"center_x": 200,
+				"center_y": 245,
+				"width": 9,
+				"height": 23,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "July",
+			"boundingbox": {
+				"center_x": 230,
+				"center_y": 243,
+				"width": 11,
+				"height": 19,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "August",
+			"boundingbox": {
+				"center_x": 260,
+				"center_y": 251,
+				"width": 11,
+				"height": 35,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "September",
+			"boundingbox": {
+				"center_x": 289,
+				"center_y": 260,
+				"width": 11,
+				"height": 52,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "October",
+			"boundingbox": {
+				"center_x": 317,
+				"center_y": 253,
+				"width": 9,
+				"height": 39,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "November",
+			"boundingbox": {
+				"center_x": 347,
+				"center_y": 258,
+				"width": 9,
+				"height": 49,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "December",
+			"boundingbox": {
+				"center_x": 376,
+				"center_y": 258,
+				"width": 9,
+				"height": 49,
+				"orientation": 0
+			}
+		}
+	]
+}

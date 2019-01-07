@@ -1,0 +1,59 @@
+{
+	"id": "pie048",
+	"src": "CHIME-pie",
+	"no.": "048",
+	"width": 392,
+	"height": 306,
+	"textelements": [ 
+		{
+			"content": "Counties 9%",
+			"boundingbox": {
+				"center_x": 95,
+				"center_y": 28,
+				"width": 48,
+				"height": 27,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Cities 48%",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 250,
+				"width": 30,
+				"height": 27,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Bond Accounts 20%",
+			"boundingbox": {
+				"center_x": 320,
+				"center_y": 229,
+				"width": 53,
+				"height": 44,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Comm and Tech Colleges 2%",
+			"boundingbox": {
+				"center_x": 336,
+				"center_y": 120,
+				"width": 77,
+				"height": 46,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Special Districts 21%",
+			"boundingbox": {
+				"center_x": 257,
+				"center_y": 30,
+				"width": 45,
+				"height": 44,
+				"orientation": 0
+			}
+		}
+	]
+}

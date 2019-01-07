@@ -1,0 +1,119 @@
+{
+	"id": "pie046",
+	"src": "CHIME-pie",
+	"no.": "046",
+	"width": 420,
+	"height": 257,
+	"textelements": [ 
+		{
+			"content": "King County 11.2%",
+			"boundingbox": {
+				"center_x": 157,
+				"center_y": 41,
+				"width": 51,
+				"height": 19,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Kent School District 37.1%",
+			"boundingbox": {
+				"center_x": 55,
+				"center_y": 147,
+				"width": 80,
+				"height": 18,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "State School Support 21.7%",
+			"boundingbox": {
+				"center_x": 225,
+				"center_y": 238,
+				"width": 86,
+				"height": 19,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Emergency Medical Services 1.9%",
+			"boundingbox": {
+				"center_x": 320,
+				"center_y": 232,
+				"width": 78,
+				"height": 29,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Hospital 0.7%",
+			"boundingbox": {
+				"center_x": 300,
+				"center_y": 190,
+				"width": 33,
+				"height": 19,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Rural Library District-G.O.Bond 0.3%",
+			"boundingbox": {
+				"center_x": 364,
+				"center_y": 174,
+				"width": 86,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Rural Library District 3.9%",
+			"boundingbox": {
+				"center_x": 348,
+				"center_y": 144,
+				"width": 83,
+				"height": 19,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "King County District #43 0.9%",
+			"boundingbox": {
+				"center_x": 383,
+				"center_y": 109,
+				"width": 51,
+				"height": 28,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "King County Fire District #43 10.2%",
+			"boundingbox": {
+				"center_x": 320,
+				"center_y": 83,
+				"width": 68,
+				"height": 30,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Port of Seattle 2.0%",
+			"boundingbox": {
+				"center_x": 292,
+				"center_y": 51,
+				"width": 56,
+				"height": 19,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "City of Covington 10.1%",
+			"boundingbox": {
+				"center_x": 238,
+				"center_y": 25,
+				"width": 70,
+				"height": 19,
+				"orientation": 0
+			}
+		}
+	]
+}

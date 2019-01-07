@@ -1,0 +1,69 @@
+{
+	"id": "line037",
+	"src": "CHIME-line",
+	"no.": "037",
+	"width": 297,
+	"height": 164,
+	"textelements": [ 
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 8,
+				"center_y": 13,
+				"width": 14,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "80",
+			"boundingbox": {
+				"center_x": 9,
+				"center_y": 40,
+				"width": 10,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 9,
+				"center_y": 68,
+				"width": 10,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "40",
+			"boundingbox": {
+				"center_x": 9,
+				"center_y": 95,
+				"width": 10,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 9,
+				"center_y": 123,
+				"width": 10,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 11,
+				"center_y": 150,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		}
+	]
+}

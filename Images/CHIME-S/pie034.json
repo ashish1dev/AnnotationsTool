@@ -1,0 +1,59 @@
+{
+	"id": "pie034",
+	"src": "CHIME-pie",
+	"no.": "034",
+	"width": 725,
+	"height": 627,
+	"textelements": [ 
+		{
+			"content": "Novelis Revenues by Geography",
+			"boundingbox": {
+				"center_x": 233,
+				"center_y": 85,
+				"width": 302,
+				"height": 19,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "North America 38%",
+			"boundingbox": {
+				"center_x": 110,
+				"center_y": 141,
+				"width": 162,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "South America 7%",
+			"boundingbox": {
+				"center_x": 140,
+				"center_y": 398,
+				"width": 159,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Asia 15%",
+			"boundingbox": {
+				"center_x": 290,
+				"center_y": 398,
+				"width": 81,
+				"height": 14,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Europe 40%",
+			"boundingbox": {
+				"center_x": 397,
+				"center_y": 202,
+				"width": 105,
+				"height": 16,
+				"orientation": 0
+			}
+		}
+	]
+}

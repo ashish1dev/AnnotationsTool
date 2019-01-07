@@ -1,0 +1,49 @@
+{
+	"id": "pie033",
+	"src": "CHIME-pie",
+	"no.": "033",
+	"width": 600,
+	"height": 411,
+	"textelements": [ 
+		{
+			"content": "Florid Asthma Hospitalization for 2001 by Age",
+			"boundingbox": {
+				"center_x": 300,
+				"center_y": 30,
+				"width": 434,
+				"height": 21,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Age bigger than 64 19.3%",
+			"boundingbox": {
+				"center_x": 163,
+				"center_y": 147,
+				"width": 43,
+				"height": 23,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Age 35-64 32.9%",
+			"boundingbox": {
+				"center_x": 120,
+				"center_y": 300,
+				"width": 49,
+				"height": 23,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Age smaller than 35 47.8%",
+			"boundingbox": {
+				"center_x": 518,
+				"center_y": 199,
+				"width": 43,
+				"height": 23,
+				"orientation": 0
+			}
+		}
+	]
+}

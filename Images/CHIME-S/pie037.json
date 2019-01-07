@@ -1,0 +1,49 @@
+{
+	"id": "pie037",
+	"src": "CHIME-pie",
+	"no.": "037",
+	"width": 360,
+	"height": 201,
+	"textelements": [ 
+		{
+			"content": "Cold Storage",
+			"boundingbox": {
+				"center_x": 101,
+				"center_y": 10,
+				"width": 67,
+				"height": 16,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Water Heating",
+			"boundingbox": {
+				"center_x": 56,
+				"center_y": 53,
+				"width": 75,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Lights and Appliances",
+			"boundingbox": {
+				"center_x": 59,
+				"center_y": 165,
+				"width": 100,
+				"height": 16,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Heating and Cooling",
+			"boundingbox": {
+				"center_x": 310,
+				"center_y": 69,
+				"width": 94,
+				"height": 14,
+				"orientation": 0
+			}
+		}
+	]
+}

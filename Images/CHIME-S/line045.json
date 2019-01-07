@@ -1,0 +1,239 @@
+{
+	"id": "line045",
+	"src": "CHIME-line",
+	"no.": "045",
+	"width": 306,
+	"height": 257,
+	"textelements": [ 
+		{
+			"content": "100",
+			"boundingbox": {
+				"center_x": 30,
+				"center_y": 6,
+				"width": 20,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "95",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 26,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "90",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 47,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "85",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 67,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "80",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 86,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "75",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 107,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "70",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 127,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "65",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 147,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "60",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 168,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "55",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 188,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "50",
+			"boundingbox": {
+				"center_x": 33,
+				"center_y": 207,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "DOLLARS PER TON",
+			"boundingbox": {
+				"center_x": 8,
+				"center_y": 111,
+				"width": 12,
+				"height": 140,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'92",
+			"boundingbox": {
+				"center_x": 51,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'93",
+			"boundingbox": {
+				"center_x": 78,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'94",
+			"boundingbox": {
+				"center_x": 106,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'95",
+			"boundingbox": {
+				"center_x": 133,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'96",
+			"boundingbox": {
+				"center_x": 160,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'97",
+			"boundingbox": {
+				"center_x": 187,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'98",
+			"boundingbox": {
+				"center_x": 214,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'99",
+			"boundingbox": {
+				"center_x": 241,
+				"center_y": 226,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 269,
+				"center_y": 226,
+				"width": 25,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "'01",
+			"boundingbox": {
+				"center_x": 296,
+				"center_y": 226,
+				"width": 13,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "YEARS",
+			"boundingbox": {
+				"center_x": 173,
+				"center_y": 246,
+				"width": 57,
+				"height": 13,
+				"orientation": 0
+			}
+		}
+	]
+}

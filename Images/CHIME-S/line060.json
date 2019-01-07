@@ -1,0 +1,169 @@
+{
+	"id": "line060",
+	"src": "CHIME-line",
+	"no.": "060",
+	"width": 612,
+	"height": 396,
+	"textelements": [ 
+		{
+			"content": "Marked Area Chart: Open",
+			"boundingbox": {
+				"center_x": 318,
+				"center_y": 16,
+				"width": 191,
+				"height": 16,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "9.2",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 75,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8.8",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 113,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8.4",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 151,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8",
+			"boundingbox": {
+				"center_x": 6,
+				"center_y": 190,
+				"width": 6,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7.6",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 228,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7.2",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 267,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6.8",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 305,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6.4",
+			"boundingbox": {
+				"center_x": 10,
+				"center_y": 343,
+				"width": 15,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "19970714",
+			"boundingbox": {
+				"center_x": 63,
+				"center_y": 367,
+				"width": 48,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "19970710",
+			"boundingbox": {
+				"center_x": 148,
+				"center_y": 367,
+				"width": 48,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "19970708",
+			"boundingbox": {
+				"center_x": 233,
+				"center_y": 367,
+				"width": 48,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "19970704",
+			"boundingbox": {
+				"center_x": 319,
+				"center_y": 367,
+				"width": 48,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "19970702",
+			"boundingbox": {
+				"center_x": 404,
+				"center_y": 367,
+				"width": 48,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "19970626",
+			"boundingbox": {
+				"center_x": 489,
+				"center_y": 367,
+				"width": 48,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "19970624",
+			"boundingbox": {
+				"center_x": 575,
+				"center_y": 367,
+				"width": 48,
+				"height": 10,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"id": "pie050",
+	"src": "CHIME-pie",
+	"no.": "050",
+	"width": 400,
+	"height": 320,
+	"textelements": [ 
+		{
+			"content": "Europe",
+			"boundingbox": {
+				"center_x": 71,
+				"center_y": 81,
+				"width": 47,
+				"height": 15,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "North America",
+			"boundingbox": {
+				"center_x": 281,
+				"center_y": 253,
+				"width": 99,
+				"height": 12,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Asia",
+			"boundingbox": {
+				"center_x": 315,
+				"center_y": 39,
+				"width": 30,
+				"height": 12,
+				"orientation": 0
+			}
+		}
+	]
+}

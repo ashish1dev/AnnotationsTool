@@ -1,0 +1,159 @@
+{
+	"id": "line042",
+	"src": "CHIME-line",
+	"no.": "042",
+	"width": 686,
+	"height": 509,
+	"textelements": [ 
+		{
+			"content": "32",
+			"boundingbox": {
+				"center_x": 13,
+				"center_y": 154,
+				"width": 15,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "28",
+			"boundingbox": {
+				"center_x": 13,
+				"center_y": 252,
+				"width": 15,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "24",
+			"boundingbox": {
+				"center_x": 13,
+				"center_y": 351,
+				"width": 15,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "20",
+			"boundingbox": {
+				"center_x": 13,
+				"center_y": 450,
+				"width": 15,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1995",
+			"boundingbox": {
+				"center_x": 68,
+				"center_y": 472,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1996",
+			"boundingbox": {
+				"center_x": 132,
+				"center_y": 472,
+				"width": 28,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1997",
+			"boundingbox": {
+				"center_x": 196,
+				"center_y": 472,
+				"width": 28,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1998",
+			"boundingbox": {
+				"center_x": 259,
+				"center_y": 472,
+				"width": 28,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1999",
+			"boundingbox": {
+				"center_x": 322,
+				"center_y": 472,
+				"width": 28,
+				"height": 11,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2000",
+			"boundingbox": {
+				"center_x": 386,
+				"center_y": 472,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2001",
+			"boundingbox": {
+				"center_x": 449,
+				"center_y": 472,
+				"width": 27,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2002",
+			"boundingbox": {
+				"center_x": 512,
+				"center_y": 472,
+				"width": 29,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2003",
+			"boundingbox": {
+				"center_x": 575,
+				"center_y": 472,
+				"width": 29,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2004",
+			"boundingbox": {
+				"center_x": 639,
+				"center_y": 472,
+				"width": 28,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Year",
+			"boundingbox": {
+				"center_x": 352,
+				"center_y": 497,
+				"width": 29,
+				"height": 11,
+				"orientation": 0
+			}
+		}
+	]
+}

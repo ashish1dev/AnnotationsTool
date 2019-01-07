@@ -1,0 +1,239 @@
+{
+	"id": "line022",
+	"src": "CHIME-line",
+	"no.": "022",
+	"width": 442,
+	"height": 282,
+	"textelements": [ 
+		{
+			"content": "Neutropenia Model (Control)",
+			"boundingbox": {
+				"center_x": 221,
+				"center_y": 23,
+				"width": 192,
+				"height": 13,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2.5",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 60,
+				"width": 15,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 49,
+				"center_y": 92,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1.5",
+			"boundingbox": {
+				"center_x": 45,
+				"center_y": 123,
+				"width": 14,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 49,
+				"center_y": 156,
+				"width": 2,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0.5",
+			"boundingbox": {
+				"center_x": 44,
+				"center_y": 187,
+				"width": 15,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "0",
+			"boundingbox": {
+				"center_x": 49,
+				"center_y": 219,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Absolute Neutrophils",
+			"boundingbox": {
+				"center_x": 24,
+				"center_y": 140,
+				"width": 11,
+				"height": 117,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "1",
+			"boundingbox": {
+				"center_x": 75,
+				"center_y": 236,
+				"width": 2,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "2",
+			"boundingbox": {
+				"center_x": 101,
+				"center_y": 236,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "3",
+			"boundingbox": {
+				"center_x": 127,
+				"center_y": 236,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "4",
+			"boundingbox": {
+				"center_x": 153,
+				"center_y": 236,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "5",
+			"boundingbox": {
+				"center_x": 180,
+				"center_y": 236,
+				"width": 6,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "6",
+			"boundingbox": {
+				"center_x": 206,
+				"center_y": 236,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "7",
+			"boundingbox": {
+				"center_x": 232,
+				"center_y": 236,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "8",
+			"boundingbox": {
+				"center_x": 258,
+				"center_y": 236,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "9",
+			"boundingbox": {
+				"center_x": 284,
+				"center_y": 236,
+				"width": 5,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "10",
+			"boundingbox": {
+				"center_x": 310,
+				"center_y": 236,
+				"width": 11,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "11",
+			"boundingbox": {
+				"center_x": 335,
+				"center_y": 236,
+				"width": 9,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "12",
+			"boundingbox": {
+				"center_x": 363,
+				"center_y": 236,
+				"width": 10,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "13",
+			"boundingbox": {
+				"center_x": 389,
+				"center_y": 236,
+				"width": 10,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "14",
+			"boundingbox": {
+				"center_x": 415,
+				"center_y": 236,
+				"width": 10,
+				"height": 8,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Day after treatment",
+			"boundingbox": {
+				"center_x": 245,
+				"center_y": 258,
+				"width": 114,
+				"height": 12,
+				"orientation": 0
+			}
+		}
+	]
+}

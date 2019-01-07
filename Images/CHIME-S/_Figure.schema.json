@@ -1,0 +1,84 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"title": "Figure",
+	"description": "A scientific figure ",
+	"type": "object",
+
+	"definitions": {
+		"boundingbox": {
+			"properties": {
+				"width": {
+					"type": "integer",
+					"description": "Width of the boundingbox in pixel",
+					"minimum": 0,
+					"exclusiveMinimum": true
+				},
+				"height": {
+					"type": "integer",
+					"description": "Heigth of the boundingbox in pixel",
+					"minimum": 0,
+					"exclusiveMinimum": true
+				},
+				"center_x": {
+					"type": "integer",
+					"description": "X-coordinate of the center of the boundingbox in pixel"
+				},
+				"center_y": {
+					"type": "integer",
+					"description": "Y-coordinate of the center of the boundingbox in pixel"
+				},
+				"orientation": {
+					"type": "number",
+					"description": "Orientation of the boundingbox (rotation angle) around its center in degree."
+				}
+			},
+			"required": ["width", "height", "center_x", "center_y"],
+			"additionalProperties": false
+		},
+
+		"texxtelement": {
+			"properties": {
+				"boundingbox": {
+					"$ref": "#/definitions/boundingbox"
+				},
+				"content": {
+					"type": "string",
+					"description": "Textual content of the element (inside the boundingbox)"
+				}
+			},
+			"required": ["boundingbox", "content"]
+		}
+	},
+
+	"properties": {
+		"id": {
+			"description": "The unique identifier for a figure",
+			"type": "string"
+		},
+		"src": {
+			"description": "The identifier of the source document",
+			"type": "string"
+		},
+		"no.": {
+			"description": "The extraction number of the figure",
+			"type": "string"
+		},
+		"width": {
+			"description": "The width of the figure",
+			"type": "integer"
+		},
+		"height": {
+			"description": "The height of the figure",
+			"type": "integer"
+		},
+		"textelements": {
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/textelement"
+			},
+			"minItems": 1,
+			"uniqueItems": true
+		}
+	},
+	"required": ["id", "width", "height", "textelements"]
+}

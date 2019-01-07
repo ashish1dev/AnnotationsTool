@@ -1,0 +1,79 @@
+{
+	"id": "pie053",
+	"src": "CHIME-pie",
+	"no.": "053",
+	"width": 447,
+	"height": 312,
+	"textelements": [ 
+		{
+			"content": "Cheddar Cheese 23",
+			"boundingbox": {
+				"center_x": 93,
+				"center_y": 75,
+				"width": 76,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Mozzarella 24.4",
+			"boundingbox": {
+				"center_x": 93,
+				"center_y": 256,
+				"width": 51,
+				"height": 28,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "All Other 11.8",
+			"boundingbox": {
+				"center_x": 293,
+				"center_y": 289,
+				"width": 45,
+				"height": 27,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Other Italian 6.8",
+			"boundingbox": {
+				"center_x": 360,
+				"center_y": 246,
+				"width": 64,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Swiss 2.5",
+			"boundingbox": {
+				"center_x": 356,
+				"center_y": 202,
+				"width": 26,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Other American 31.5",
+			"boundingbox": {
+				"center_x": 333,
+				"center_y": 65,
+				"width": 76,
+				"height": 26,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Cheese Production",
+			"boundingbox": {
+				"center_x": 238,
+				"center_y": 10,
+				"width": 144,
+				"height": 16,
+				"orientation": 0
+			}
+		}
+	]
+}

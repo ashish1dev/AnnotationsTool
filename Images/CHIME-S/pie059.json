@@ -1,0 +1,29 @@
+{
+	"id": "pie059",
+	"src": "CHIME-pie",
+	"no.": "059",
+	"width": 292,
+	"height": 275,
+	"textelements": [ 
+		{
+			"content": "Interest",
+			"boundingbox": {
+				"center_x": 247,
+				"center_y": 57,
+				"width": 52,
+				"height": 10,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Principle",
+			"boundingbox": {
+				"center_x": 32,
+				"center_y": 200,
+				"width": 52,
+				"height": 13,
+				"orientation": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "pie056",
+	"src": "CHIME-pie",
+	"no.": "056",
+	"width": 250,
+	"height": 282,
+	"textelements": [ 
+		{
+			"content": "5%",
+			"boundingbox": {
+				"center_x": 87,
+				"center_y": 26,
+				"width": 15,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "13%",
+			"boundingbox": {
+				"center_x": 55,
+				"center_y": 35,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "13%",
+			"boundingbox": {
+				"center_x": 15,
+				"center_y": 73,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "18%",
+			"boundingbox": {
+				"center_x": 18,
+				"center_y": 258,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "22%",
+			"boundingbox": {
+				"center_x": 217,
+				"center_y": 262,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "29%",
+			"boundingbox": {
+				"center_x": 221,
+				"center_y": 58,
+				"width": 21,
+				"height": 9,
+				"orientation": 0
+			}
+		}
+	]
+}

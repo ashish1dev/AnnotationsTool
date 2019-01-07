@@ -1,0 +1,79 @@
+{
+	"id": "pie041",
+	"src": "CHIME-pie",
+	"no.": "041",
+	"width": 500,
+	"height": 436,
+	"textelements": [ 
+		{
+			"content": "Sources of Income 2003/04",
+			"boundingbox": {
+				"center_x": 255,
+				"center_y": 12,
+				"width": 347,
+				"height": 21,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Membership subscriptions 12%",
+			"boundingbox": {
+				"center_x": 189,
+				"center_y": 126,
+				"width": 92,
+				"height": 50,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Other income 1%",
+			"boundingbox": {
+				"center_x": 93,
+				"center_y": 183,
+				"width": 96,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Donations via Charities Aid Foudation 13%",
+			"boundingbox": {
+				"center_x": 47,
+				"center_y": 266,
+				"width": 95,
+				"height": 71,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Strategic Home Office grant 15%",
+			"boundingbox": {
+				"center_x": 78,
+				"center_y": 385,
+				"width": 111,
+				"height": 51,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Project grant funding 35%",
+			"boundingbox": {
+				"center_x": 418,
+				"center_y": 415,
+				"width": 149,
+				"height": 31,
+				"orientation": 0
+			}
+		},
+		{
+			"content": "Earned Income 24%",
+			"boundingbox": {
+				"center_x": 434,
+				"center_y": 207,
+				"width": 107,
+				"height": 31,
+				"orientation": 0
+			}
+		}
+	]
+}
